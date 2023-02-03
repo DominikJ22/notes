@@ -1,30 +1,30 @@
-# My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+# Don't Forget
+Use this TO-DO app to keep track of your daily task!  
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:**https://notes-beta-hazel.vercel.app/ </br>
 
-![alt tag](http://placecorgi.com/1200/650)
+
+<p align="center">
+<img src="todo.gif" alt="todo.gif"/> 
+</p>
 
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, React, and TypeScript.
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
-
+In this project I made a simple notes app that allows people to create and illustate tasks they need to complete.
 ## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
-
+I added some simple colors to make the application more user friendly. I made this app from TypeScript to just illustrate my skills in the language. I also tried to use as much simple and clean code as possible to make sure the application works as smooth as possible.
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+For this application I learned how to to effectivly use TypScript and its components to make a simple app with React.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Grub:**https://github.com/DominikJ22/grub
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**Holiday Tick List:** https://github.com/DominikJ22/holiday
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**Ticket Tracker:** https://github.com/DominikJ22/ticket-tracker
